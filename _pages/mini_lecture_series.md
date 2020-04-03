@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - AOA"
+title: "Reyes Biophysics Lab - AOA"
 layout: textlay
 excerpt: "AOA"
 sitemap: false
