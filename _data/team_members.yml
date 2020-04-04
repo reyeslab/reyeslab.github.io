@@ -10,16 +10,13 @@
   photo: mfae.jpg
   info: Researcher and Professor
   email: manuel.acevedo@iberopuebla.mx
-  number_educ: 2
-  education1: Postdoc at Center for Research and Advanced Studies of the National Polytechnic Institute
-  education2: Ph.D., Physics, University of Navarra
+  number_educ: 1
+  education1: Ph.D., Physics, University of Navarra
 
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
+- name: Christian Scheckhuber
+  photo: cqs.jpeg
+  info: Research Scientist
+  email: christian.scheckhube@cinvestav.mx
+  number_educ: 1
+  education1: Ph.D, Biology, Goethe-Universität Frankfurt am Main
+
