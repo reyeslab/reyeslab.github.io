@@ -2,7 +2,7 @@
 ![powered by Jekyll](https://img.shields.io/badge/powered_by-Jekyll-yellow.svg)
 [![License](https://img.shields.io/github/license/reyeslab/reyeslab.github.io)](https://opensource.org/licenses/MIT)
 
-This is the website of our academic research group at CINVESTAV.
+This is the website of our academic research group.
 
 This website was developed and deployed by [Carlos Salgado](https://github.com/socd06/) using a fork of [Allan Lab @ Leiden University](http://www.allanlab.org/).
 
