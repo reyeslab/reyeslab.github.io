@@ -1,4 +1,7 @@
 # Reyes Biophysics Lab Website
+![powered by Jekyll](https://img.shields.io/badge/powered_by-Jekyll-yellow.svg)
+[![License](https://img.shields.io/github/license/reyeslab/reyeslab.github.io)](https://opensource.org/licenses/MIT)
+
 
 This is the website of our academic research group at CINVESTAV.
 
