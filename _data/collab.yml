@@ -1,0 +1,14 @@
+- name: Manuel Francisco Acevedo Escalante
+  photo: mfae.jpg
+  info: Researcher and Professor
+  email: manuel.acevedo@iberopuebla.mx
+  number_educ: 1
+  education1: Ph.D., Physics, University of Navarra
+
+- name: Christian Scheckhuber
+  photo: cqs.jpeg
+  info: Research Scientist
+  email: christian.scheckhube@cinvestav.mx
+  number_educ: 1
+  education1: Ph.D, Biology, Goethe-Universität Frankfurt am Main
+

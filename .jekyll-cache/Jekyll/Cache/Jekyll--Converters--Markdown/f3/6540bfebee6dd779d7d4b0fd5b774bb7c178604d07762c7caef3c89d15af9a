@@ -1,4 +1,4 @@
-I"æ<h1 id="group-members">Group Members</h1>
+I"Å<h1 id="group-members">Group Members</h1>
 
 <div class="row">
 
@@ -72,14 +72,24 @@
 
 </div>
 
-<h2 id="collaborators">Collaborators</h2>
+<h2 id="colaborators">Colaborators</h2>
+
+<!--
+
+## Students
+
+
+
+
+
 
 <div class="row">
 
-  <div class="col-sm-6 clearfix">
-    <h4>Rosanne Wijgman</h4>
-    <p><i>Master student<br />email: <a href="mailto:rosanne.wijgman@student.ru.nl">rosanne.wijgman@student.ru.nl</a></i></p>
-    <ul style="overflow: hidden">
+
+<div class="col-sm-6 clearfix">
+  <h4>Rosanne Wijgman</h4>
+  <i>Master student<br>email: <rosanne.wijgman@student.ru.nl></i>
+  <ul style="overflow: hidden">
 
   
 
@@ -90,8 +100,17 @@
   
 
   </ul>
-  </div>
+</div>
+
+
+
+
+
+
+
+
 
 </div>
 
+-->
 :ET

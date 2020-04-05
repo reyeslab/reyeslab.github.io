@@ -5,18 +5,3 @@
   number_educ: 2
   education1: Postdoc with <a href="https://www.softsimu.net/index.shtml">Mikko Karttunen</a>, Chemistry department, Western University
   education2: Ph.D., Biomedical Engineering & Physics, Center for Research and Advanced Studies of the National Polytechnic Institute
-
-- name: Manuel Francisco Acevedo Escalante
-  photo: mfae.jpg
-  info: Researcher and Professor
-  email: manuel.acevedo@iberopuebla.mx
-  number_educ: 1
-  education1: Ph.D., Physics, University of Navarra
-
-- name: Christian Scheckhuber
-  photo: cqs.jpeg
-  info: Research Scientist
-  email: christian.scheckhube@cinvestav.mx
-  number_educ: 1
-  education1: Ph.D, Biology, Goethe-Universität Frankfurt am Main
-
