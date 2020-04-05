@@ -24,8 +24,37 @@
   authors: Maricarmen Ríos-Ramírez, A.D.Reyes-Figueroa, J.C. Ruiz-Suárez, Jorge González-Gutiérrez
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S0927776518303175
-    display:  Colloids and Surfaces B - Biointerfaces Volume 169, 486-493
+    display:  Colloids and Surfaces B - Biointerfaces Volume 169
   highlight: 1
   news2:
 
+- title: "Ionic interactions determine the morphology of dried alkali/liposome suspension droplets"
+  image: ionic.png
+  description:  We sought to understand why saline drops produce intriguing patterns when drying in the presence of zwitterionic liposomes. Specifically, we would like to comprehend why the nature of such patterns is hierarchically driven by the Hofmeister series. 
+  authors: Rosendo Pérez-Isidoro, A.D. Reyes-Figueroa, J.C. Ruiz-Suárez
+  link:
+    url: https://www.sciencedirect.com/journal/colloids-and-surfaces-b-biointerfaces/vol/160/suppl/C
+    display: Colloids and surfaces B - Biointerfaces Volume 160
+  highlight: 1
+  news2:
+
+- title: "Arg354 in the catalytic centre of bovine liver catalase is protected from methylglyoxal-mediated glycation"
+  image: arg.webp
+  description: Here, results are presented on the effects of methylglyoxal on mycelium growth, stationary phase entry (monitored by autophagy induction), mitochondrial morphology and protein composition in the filamentous fungus Penicillium chrysogenum.
+  authors: Christian Q. Scheckhuber
+  link:
+    url: https://springernature.figshare.com/articles/MOESM1_of_Arg354_in_the_catalytic_centre_of_bovine_liver_catalase_is_protected_from_methylglyoxal-mediated_glycation/4354325
+    display: BMC Res Notes
+  highlight: 1
+  news2:
+
+- title: "Penicillium chrysogenum as a model system for studying cellular effects of methylglyoxal"
+  image: penic.png
+  description: Here, results are presented on the effects of methylglyoxal on mycelium growth, stationary phase entry (monitored by autophagy induction), mitochondrial morphology and protein composition in the filamentous fungus Penicillium chrysogenum. Results Methylglyoxal leads to growth rate reduction of this fungus so that the entry into the stationary phase is delayed.
+  authors: Christian Q. Scheckhuber
+  link:
+    url: https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-015-0472-y
+    display: BMC Microbiology
+  highlight: 1
+  news2:
 
