@@ -1,3 +1,23 @@
+- title: "Experimental Study of Ordering of Hard Cubes by Shearing"
+  image: shearing.png
+  description: We experimentally analyze the compaction dynamics of an ensemble of cubic particles submitted to a novel type of excitation. Instead of the standard tapping procedure used in granular materials we apply alternative twists to the cylindrical container. Under this agitation, the development of shear forces among the different layers of cubes leads to particle alignment. 
+  authors: K. Asencio, M. Acevedo, I. Zuriguel, and D. Maza
+  link:
+    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.228002
+    display:  Phys. Rev. Lett. 119, 228002
+  highlight: 1
+  news2:
+
+- title: "Lift on side by side intruders of various geometries within a granular flow"
+  image: lift.png
+  description: Here we present experimental results of the interaction between two side-by-side intruders of different shapes within a vertical granular flow. We built a quasi-two-dimensional container in which we placed the intruders and using load cells we measured lift and drag forces during the discharge process for different flow velocities. 
+  authors: M. F. Acevedo-Escalante, G. A Caballero-Robledo
+  link:
+    url: https://www.epj-conferences.org/articles/epjconf/abs/2017/09/epjconf162346/epjconf162346.html?mb=0
+    display:  EPJ Web Conf. Volume 140
+  highlight: 1
+  news2:
+
 - title: "Pattern formation of stains from dried drops to identify spermatozoa motility"
   image: motility.jpg
   description: We examine the structural characteristics of such patterns by optical microscopy. The analysis reveals that cell motility affects the formation of elongated crystals with lateral tips, as well as the creation of interlocked aggregates.
@@ -8,12 +28,4 @@
   highlight: 1
   news2:
 
-- title: "A strongly inhomogeneous superfluid in an iron-based superconductor"
-  image: STS_news.png
-  description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
-  authors: D Cho* & KM Bastiaans* & D Chatzopoulos*, GD Gu, MP Allan
-  link:
-    url: https://www.nature.com/articles/s41586-019-1408-8
-    display:  Nature 571, 541 (2019)
-  highlight: 1
-  news2:
+

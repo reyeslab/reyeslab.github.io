@@ -1,5 +1,4 @@
-I"�
-<h1 id="publications">Publications</h1>
+I"l<h1 id="publications">Publications</h1>
 
 <h2 id="highlights">Highlights</h2>
 
@@ -21,11 +20,11 @@
 
   <div class="col-sm-6 clearfix">
     <div class="well">
-      <pubtit>A strongly inhomogeneous superfluid in an iron-based superconductor</pubtit>
-      <p><img src="http://localhost:4000/images/pubpic/STS_news.png" class="img-responsive" width="33%" style="float: left" /></p>
-      <p>We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.</p>
-      <p><em>D Cho* &amp; KM Bastiaans* &amp; D Chatzopoulos*, GD Gu, MP Allan</em></p>
-      <p><strong><a href="https://www.nature.com/articles/s41586-019-1408-8">Nature 571, 541 (2019)</a></strong></p>
+      <pubtit>Experimental Study of Ordering of Hard Cubes by Shearing</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/https://journals.aps.org/prl/article/10.1103/PhysRevLett.119.228002/figures/1/medium.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>We experimentally analyze the compaction dynamics of an ensemble of cubic particles submitted to a novel type of excitation. Instead of the standard tapping procedure used in granular materials we apply alternative twists to the cylindrical container. Under this agitation, the development of shear forces among the different layers of cubes leads to particle alignment.</p>
+      <p><em>K. Asencio, M. Acevedo, I. Zuriguel, and D. Maza</em></p>
+      <p><strong><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.228002">Phys. Rev. Lett. 119, 228002</a></strong></p>
       <p class="text-danger"><strong> </strong></p>
       <p> </p>
     </div>
@@ -40,7 +39,7 @@
 <p>Pattern formation of stains from dried drops to identify spermatozoa motility <br />
   <em>Maricarmen Ríos-Ramírez, A.D.Reyes-Figueroa, J.C. Ruiz-Suárez, Jorge González-Gutiérrez </em><br /><a href="https://www.sciencedirect.com/science/article/abs/pii/S0927776518303175">Colloids and Surfaces B - Biointerfaces Volume 169, 486-493</a></p>
 
-<p>A strongly inhomogeneous superfluid in an iron-based superconductor <br />
-  <em>D Cho* &amp; KM Bastiaans* &amp; D Chatzopoulos*, GD Gu, MP Allan </em><br /><a href="https://www.nature.com/articles/s41586-019-1408-8">Nature 571, 541 (2019)</a></p>
+<p>Experimental Study of Ordering of Hard Cubes by Shearing <br />
+  <em>K. Asencio, M. Acevedo, I. Zuriguel, and D. Maza </em><br /><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.228002">Phys. Rev. Lett. 119, 228002</a></p>
 
 :ET
